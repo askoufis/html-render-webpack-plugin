@@ -58,7 +58,7 @@
     "chalk": "^4.1.0",
     "eval": "^0.1.4",
     "exception-formatter": "^2.1.2",
-    "schema-utils": "^3.0.0"
+    "schema-utils": "^4.0.0"
   },
   "config": {
     "commitizen": {
